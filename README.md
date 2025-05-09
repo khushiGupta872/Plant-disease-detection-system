@@ -1,1 +1,1 @@
-# Plant-disease-detection-system
+This project is a machine learning-based system designed to automatically detect diseases in plant leaves using image classification techniques. It uses a trained convolutional neural network (CNN) model to identify and classify various types of plant leaf diseases from uploaded images. The goal is to assist farmers and agricultural professionals in early detection and management of crop diseases, improving yield and productivity
